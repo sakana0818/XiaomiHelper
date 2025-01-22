@@ -29,7 +29,7 @@ HyperOS 的轻量级模块，仅适用于 HyperOS！自用模块，基于小米 
 
 [请我喝杯咖啡](https://github.com/HowieHChen/XiaomiHelper/blob/master/DONATE.md)
 
-## 引用
+## 引
 
 ##### GNU General Public License v3.0
 
